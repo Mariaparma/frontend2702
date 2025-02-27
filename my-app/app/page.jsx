@@ -9,7 +9,7 @@ export default function Home () {
       <h2> Minha Primeira Página NextJs</h2>
     </main>
 
-    <aside>
+
     <Card title="Dona" content="Tem segunda intenção nesse: Não, não para, não
 No selinho no fim do beijo que você insiste em me dar
 Isso é coisa de quem quer amar
@@ -30,6 +30,7 @@ O te amo que cê quer escutar tem dona
 Eu posso te emprestar meu corpo porque ele ainda é meu
 Mas o sentimento ela não me devolveu
 Ela não me devolveu" />
+
 
     <Card title="Violão"content="Fiquei sabendo
 Que tá esperando um bebê
@@ -71,9 +72,26 @@ Pra minha sorte, cai um toró, me molha todo
 Ela nunca vai saber o que molhou meu rosto
 Se foi chuva ou choro, chuva ou choro
 
-"/>
-</aside>
+Meus amigos chamando pra sair
+Eu caçando motivo pra ficar
+O tempo tava armando pra chover
+A desculpa eu já tinha, mas fui lá
 
+Porque o medo real era ver quem eu gosto em outra boca
+Mas o evento era grande, tinha não sei quantas mil pessoas
+A chance de dar ruim era de 0,001
+Mas quando eu olho pro lado, hum
+
+Bem na hora que eu vi ela beijando outro
+Pra minha sorte, cai um toró, me molha todo
+Ela nunca vai saber o que molhou meu rosto
+Se foi chuva ou choro, chuva ou choro
+
+Bem na hora que eu vi ela beijando outro
+Pra minha sorte, cai um toró, me molha todo
+Ela nunca vai saber o que molhou meu rosto
+Se foi chuva ou choro, chuva ou choro"/>
+      
     <Footer/>
   </div>
   );

@@ -1,5 +1,22 @@
 .header {
-    background-color: brown;
-    align-items: center;
-   
+    background-color: #5e63b3;
+    width: auto;
+    height: 100px;
+}
+
+.header h1 {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+@media (max-width: 1440px) {
+    .header {
+        height: 100px;
+        width: 150%;
+        font-size: 20px;
+        text-align: center;
+        margin: 10px;
+    }
+    
 }

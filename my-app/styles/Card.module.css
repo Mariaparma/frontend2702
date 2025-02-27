@@ -1,8 +1,18 @@
+.column {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
 .card {
-    background-color: brown;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    padding: 10px;
-    line-height: 1.5;
-    min-width: 325px;
+    background-color:#7488c9;
+    width: 1000px;
+    height: 200px;
+    margin: 50px;
+    border-radius: 20px;
+}
+
+.retangulo img {
+    width: 200%;
+    height: 100%;
 }

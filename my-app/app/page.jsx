@@ -10,9 +10,29 @@ export default function Home () {
     </main>
 
 
-    <Card title="Dona" content="Tem segunda intenção nesse: Não, não para, não
+    <Card title="Dona" content="
+
+Tem segunda intenção nesse: Não, não para, não
 No selinho no fim do beijo que você insiste em me dar
 Isso é coisa de quem quer amar
+Cê me conheceu depois que deixei de ser dois e voltei a ser só um
+Você não tem culpa, isso é um erro comum
+
+Eu tava ali pra esquecer alguém
+Cê tava ali pra encontrar alguém
+E encontrou, só que tem um porém
+
+O coração que cê quer entrar tem dona
+O te amo que cê quer escutar tem dona
+Eu posso te emprestar meu corpo porque ele ainda é meu
+Mas o sentimento ela não me devolveu
+
+O coração que cê quer entrar tem dona
+O te amo que cê quer escutar tem dona
+Eu posso te emprestar meu corpo porque ele ainda é meu
+Mas o sentimento ela não me devolveu
+Ela não me devolveu
+
 Cê me conheceu depois que deixei de ser dois e voltei a ser só um
 Você não tem culpa, isso é um erro comum
 
@@ -32,7 +52,9 @@ Mas o sentimento ela não me devolveu
 Ela não me devolveu" />
 
 
-    <Card title="Violão"content="Fiquei sabendo
+    <Card title="Violão"content="
+
+Fiquei sabendo
 Que tá esperando um bebê
 Sempre foi seu sonho, eu lembro
 Fico tão feliz por você
@@ -47,6 +69,33 @@ Quando ouve a minha voz
 No rádio ou na TV?
 
 Então, me tira uma dúvida
+Eu sei que a saudade de nós dois já não machuca
+Mas o que você vai dizer
+Quando seu filho aprender
+Violão com as minhas músicas?
+
+Então, só me tira uma dúvida
+Eu sei que a saudade de nós dois já não machuca
+Mas o que você vai dizer
+Quando seu filho aprender
+Violão com as minhas músicas?
+
+Sabe, de vez em quando ainda vejo suas fotos
+Mudou, eu sei
+Mas tem o mesmo olhar que tinha aos dezesseis
+
+Só queria saber
+Você sente o quê
+Quando ouve a minha voz
+No rádio ou na TV?
+
+Então, me tira uma dúvida
+Eu sei que a saudade de nós dois já não machuca
+Mas o que você vai dizer
+Quando seu filho aprender
+Violão com as minhas músicas?
+
+Então, só me tira uma dúvida
 Eu sei que a saudade de nós dois já não machuca
 Mas o que você vai dizer
 Quando seu filho aprender

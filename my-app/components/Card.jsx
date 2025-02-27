@@ -7,5 +7,9 @@ export default function Card ( {title, content} ) {
             <p>{content}</p>
         </div>
         
+        <div className={styles.retangulo}>
+ <img src="/" alt="Donuts" />
+ </div>
+        
     );
 }
